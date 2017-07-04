@@ -17,6 +17,12 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
 
 - **Footage** - Photos and videos taken for non professional use
 - **Music** - My offline music library
+- **Education** - Notes and weblectures from school (overrides projects)
+  - **2005 Secondary School**
+  - **2009 Polytechnic**
+  - **2012 University**
+  - **2016 NOC**
+  
 - **Personal Projects** - All the work I have done
   - **2D Art** - Digital drawing / traditional scans.
   - **3D Works** - 3D Models
@@ -26,7 +32,7 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
   - **Code - Flash** - All my flash projects (overrides game projects)
   - **IoT** - All IoT based ideas
   - **Music** - Music I have composed
-- **School** - Notes and weblectures from school
+  
 - **Software** - All the software that I have downloaded (deprecated)
   - **Windows**
     - **Applications**
@@ -39,10 +45,19 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
   - **Android** - Random APKs (mostly games)
   - **Linux - Ubuntu** - Apps for Linux
   - **OS** - Win installation files, Android ROMS etc.
+  
+- **Bookish**
+  - **E-Books - Fiction**
+  - **E-Book - Educational**
+  - **Audio Books**
+  - **Comics**
+  - **Manga**
+  
 - **Visual Entertainment** - TV Series and Movies
   - **Western TV Serials**
   - **Western Movies**
   - **Anime**
+  
 - **Visual Education** - Downloaded educational shows.
 
 -------
