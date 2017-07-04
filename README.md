@@ -24,6 +24,7 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
   - **2016 NOC**
   
 - **Personal Projects** - All the work I have done
+  - **Competitions** - Projects pertaining to competitions I have participated in
   - **2D Art** - Digital drawing / traditional scans.
   - **3D Works** - 3D Models
   - **Code - Web** - Web projects
