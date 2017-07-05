@@ -27,6 +27,8 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
   - **IoT** - All IoT based ideas
   - **Music** - Music I have composed
 - **School** - Notes and weblectures from school
+- **Pictures** - Random other pictures
+- **Documents** - Misc documents (most should be in school or projects)
 - **Software** - All the software that I have downloaded (deprecated)
   - **Windows**
     - **Applications**
@@ -39,11 +41,18 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
   - **Android** - Random APKs (mostly games)
   - **Linux - Ubuntu** - Apps for Linux
   - **OS** - Win installation files, Android ROMS etc.
+- **Bookish**
+  - **Books** - Normal books, stories or others (digital form)
+  - **Reference** - Reference books, coding, cooking, skipping...
+  - **Audio** - Duh
+  - **Comics** - Fuzzy line, but generally !manga
+  - **Manga** - The Japanese kind. Don't think I have any other kind.
 - **Visual Entertainment** - TV Series and Movies
   - **Western TV Serials**
   - **Western Movies**
   - **Anime**
 - **Visual Education** - Downloaded educational shows.
+- **Work** - Pixel Rife, etc.
 
 -------
 
