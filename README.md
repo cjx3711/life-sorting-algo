@@ -3,10 +3,13 @@
 No it's not an actual programmable algorithm :sadface:, but at the very least it will serve as a guide on how to sort my files. Or if I am unavailable or otherwise unreachable, how to navigate the mess of files I have.
 
 File locations (as of 4 Jul 2017):
-- The Tomes (2x 4TB drives storing my life's archives)
+- The Tomes (2x 4TB drives storing my life's archives 100% redundancy)
+  - Synced using FreeFileSync
+- Knowledgebase (2TB drive storing mostly Anime)
+- Storage (4TB drive in desktop storing ???)
 - Dropbox (250+GB storing project work prior to uni)
 - Google Drive (100GB storing all documents)
-- OneDrive (1TB storing misc crap)
+- OneDrive (1TB storing misc school all Audio Entertainment)
 - Flash Drives (2x 64GB misc file transferring)
 
 ## Folder structure (Tomes)
@@ -42,8 +45,8 @@ I cannot hope to create the perfect folder structure. But I hope that I will be 
     - **Games**
     - **Plugins**
     - **Backups**
-      - **steamapps** - Backup of the steamapps folder
-      - **Origin Games** - Backup of the Origin Games folder
+      - **steamapps** - Backup of the steamapps folder (Probably can be deleted)
+      - **Origin Games** - Backup of the Origin Games folder (Probably can be deleted)
   - **Mac** - ??
   - **Android** - Random APKs (mostly games)
   - **Linux - Ubuntu** - Apps for Linux
@@ -74,7 +77,6 @@ Photos and videos
 ## Music
 - Music sorting seems to work for now
 - Keep at it
-
 
 ## Projects
 
