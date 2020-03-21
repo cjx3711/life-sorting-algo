@@ -2,18 +2,50 @@
 
 No it's not an actual programmable algorithm :sadface:, but at the very least it will serve as a guide on how to sort my files. Or if I am unavailable or otherwise unreachable, how to navigate the mess of files I have.
 
-File locations (as of 4 Jul 2017):
-- The Tomes (2x 4TB drives storing my life's archives 100% redundancy)
+File locations (as of 21 Mar 2020):
+- PortaTome (4TB 2.5" drive storing recent data)
+- PermaTome (4TB 3.5" drive storing older archives)
+- PrimeTome (8TB 3.5" drive for 100% redundancy of Porta and Perma Tome)
   - Synced using FreeFileSync
 - Knowledgebase (2TB drive storing mostly Anime)
 - Storage (4TB drive in desktop storing ???)
 - Dropbox (250+GB storing project work prior to uni)
 - Google Drive (100GB storing all documents)
-- OneDrive (1TB storing misc school all Audio Entertainment)
-- Flash Drives (2x 64GB misc file transferring)
+- OneDrive (1TB storing misc school work and Audio Entertainment)
 
-## Folder structure (Tomes)
+## Tome Folder Usage
+As of 21 March 2020
+| Folder | Usage |
+| --- | --- |
+| Footage | 1.8TB |
+| Work | 462GB|
+| Visual Entertainment | 248GB |
+| Software | 152GB|
+| Personal Projects | 150GB |
+| Unsorted | 100GB|
+| School | 50GB |
+| Bookish | 40GB |
+| Audio Education | 16GB |
+| Coding | 15GB |
+| Pictures | 2.5GB |
+| Stock | 1.9GB |
 
+This totals up to almost 4TB, maxing out the space in a single hard drive. This means that from here on out, I'll have to split the data into different hard drives. This is the rough layout of the new storage solution
+
+
+| PortaTome<br/>(4TB 2.5") | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
+| --- | --- | --- | --- | --- |
+| Recent Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/> | Footage Archive<br/>Work Archive | Visual Entertainment | Audio Entertainment | Recent Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Footage Archive<br/>Work Archive<br/>Visual Entertainment<br/>Audio Entertainment |
+
+## New Folder Structure
+The Footage Folder will have to be split out since it takes the most space.
+
+All Visual Entertainment will be put into Knowledgebase.
+
+
+
+## Old Folder structure (Tomes)
+(Correct as of 2017)
 I cannot hope to create the perfect folder structure. But I hope that I will be able to sort my files across all my storage media so that they follow this folder structure. That way there will be a cohesive experience across the board.
 
 > Still missing: How to sort out my documents. Do school documents go into school? What if it's part of project documentation.
@@ -96,4 +128,5 @@ Photos and videos
   - Current project 1
   - Current project 2
 ```
+
 
