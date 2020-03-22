@@ -33,7 +33,7 @@ As of 21 March 2020
 This totals up to almost 4TB, maxing out the space in a single hard drive. This means that from here on out, I'll have to split the data into different hard drives. This is the rough layout of the new storage solution
 
 
-| PortaTome<br/>(4TB 2.5")< | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
+| PortaTome<br/>(4TB 2.5") | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
 | --- | --- | --- | --- | --- |
 | Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Video Projects | Footage Archive<br/>Work Archive<br/>Video Project Archive | Visual Entertainment | Audio Entertainment | PortaTome ⋃ PermaTome ⋃ Knowledge ⋃ OneDrive |
 
