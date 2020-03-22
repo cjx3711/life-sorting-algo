@@ -33,15 +33,50 @@ As of 21 March 2020
 This totals up to almost 4TB, maxing out the space in a single hard drive. This means that from here on out, I'll have to split the data into different hard drives. This is the rough layout of the new storage solution
 
 
-| PortaTome<br/>(4TB 2.5") | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
+| PortaTome<br/>(4TB 2.5")< | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
 | --- | --- | --- | --- | --- |
-| Recent Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/> | Footage Archive<br/>Work Archive | Visual Entertainment | Audio Entertainment | Recent Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Footage Archive<br/>Work Archive<br/>Visual Entertainment<br/>Audio Entertainment |
+| Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Video Projects | Footage Archive<br/>Work Archive<br/>Video Project Archive | Visual Entertainment | Audio Entertainment | PortaTome ⋃ PermaTome ⋃ Knowledge ⋃ OneDrive |
 
-## New Folder Structure
-The Footage Folder will have to be split out since it takes the most space.
+## Folder Structure
+All top level folders will have a letter in front of it. This is to identify which drive it belongs to.
 
-All Visual Entertainment will be put into Knowledgebase.
+Primetome will contain all of the data in one place.
 
+| PortaTome | PermaTome | Knowledge | Cloud |
+| --- | --- | --- | --- |
+| A | B | C | Z |
+
+
+### Footage Structure
+All top level folders should follow the following naming convention
+```
+<year> (<camera>) - <Trip/Album>
+```
+If no camera is defined, it refers to my main camera (Not phone or gopros)
+Within these folders,it can either contain the photos directly, or be sorted further into albums by date.
+To be sorted by date, the format is as follows:
+```
+YYMMDD - <Album Name>
+```
+
+Example folder structure
+```
+- 2014 (Note 2)
+  - photo.jpg
+  - photo.jpg
+  - ...
+- 2014
+  - 140213 Album 1
+    - photo.jpg
+    - ...
+  - 140215 Album 2
+    - photo.jpg
+    - ...
+  - ...
+```
+
+### All Other Folders Structure
+The rest of the folders are not consistent, but I try to prepend it with the year.
 
 
 ## Old Folder structure (Tomes)
