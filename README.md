@@ -34,8 +34,8 @@ This totals up to almost 4TB, maxing out the space in a single hard drive. This 
 
 
 | PortaTome<br/>(4TB 2.5") | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
-| --- | --- | --- | --- | --- |
-| Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Video Projects | Footage Archive<br/>Work Archive<br/>Video Project Archive | Visual Entertainment | Audio Entertainment | PortaTome ⋃ PermaTome ⋃ Knowledge ⋃ OneDrive |
+| :---: | :---: | :---: | :---: | :---: |
+| Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Video Projects | Footage Archive<br/>Work Archive<br/>Video Project Archive | Visual Entertainment | Audio Entertainment | PortaTome ⋃<br/>PermaTome ⋃<br/>Knowledge ⋃<br/>OneDrive |
 
 ## Folder Structure
 All top level folders will have a letter in front of it. This is to identify which drive it belongs to.
@@ -43,7 +43,7 @@ All top level folders will have a letter in front of it. This is to identify whi
 Primetome will contain all of the data in one place.
 
 | PortaTome | PermaTome | Knowledge | Cloud |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | A | B | C | Z |
 
 
