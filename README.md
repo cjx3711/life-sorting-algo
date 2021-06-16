@@ -2,12 +2,14 @@
 
 No it's not an actual programmable algorithm :sadface:, but at the very least it will serve as a guide on how to sort my files. Or if I am unavailable or otherwise unreachable, how to navigate the mess of files I have.
 
-File locations (as of 21 Mar 2020):
-- PortaTome (4TB 2.5" drive storing recent data)
-- PermaTome (4TB 3.5" drive storing older archives)
-- PrimeTome (8TB 3.5" drive for 100% redundancy of Porta and Perma Tome)
+File locations (as of Jun 2021):
+- PortaTome V3 (5TB 2.5" HDD storing recent data)
+- PermaTome (4TB 3.5" HDD storing older archives)
+- PrimeTomeFront (6TB 3.5" HDD for 100% redundancy of Porta and Perma Tome)
+- PrimeTomeBack (6TB 3.5" HDD for 100% redundancy of Porta and Perma Tome)
   - Synced using FreeFileSync
-- Knowledgebase (2TB drive storing mostly Anime)
+- Transient (1TB SSD storing current working files)
+- Knowledgebase (2TB HDD storing mostly Anime)
 - Storage (4TB drive in desktop storing ???)
 - Dropbox (250+GB storing project work prior to uni)
 - Google Drive (100GB storing all documents)
@@ -33,18 +35,25 @@ As of 21 March 2020
 This totals up to almost 4TB, maxing out the space in a single hard drive. This means that from here on out, I'll have to split the data into different hard drives. This is the rough layout of the new storage solution
 
 
-| PortaTome<br/>(4TB 2.5") | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | PrimeTome<br/>(8TB 3.5") |
-| :---: | :---: | :---: | :---: | :---: |
-| Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Video Projects | Footage Archive<br/>Work Archive<br/>Video Project Archive | Visual Entertainment | Audio Entertainment | PortaTome ⋃<br/>PermaTome ⋃<br/>Knowledge ⋃<br/>OneDrive |
+| PortaTome<br/>(4TB 2.5") | PermaTome<br/>(4TB 3.5") | Knowledge<br/>(2TB 2.5") |  OneDrive<br/>(1TB Cloud) | Google Drive<br/>(13GB Cloud) | Transient<br/>(1TB SSD) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Footage<br/>Work<br/>Software<br/>Personal Projects<br/>Unsorted<br/>School<br/>Bookish<br/>Audio Education<br/>Video Projects | Footage Archive<br/>Work Archive<br/>Video Project Archive | Visual Entertainment | Audio Entertainment | Docuemnts<br/>Creativity | Working Photos and Videos |
+
+
+PrimeTome used to be a single drive, but that broke twice within a year. It now consists of 2x 6TB NAS grade hard drives because I had to buy it during the hard drive crypto craze.
+
+| PrimeTomeFront<br/>(6TB 3.5") | PrimeTomeBack<br/>(6TB 3.5") |
+| :---: | :---: |
+| PortaTome Backup | PortaTome ⋃<br/>PermaTome ⋃<br/>Knowledge ⋃<br/>OneDrive ⋃<br/>Transient |
 
 ## Folder Structure
 All top level folders will have a letter in front of it. This is to identify which drive it belongs to.
 
-Primetome will contain all of the data in one place.
+PrimeTome used to be a single drive, but is now split.
 
-| PortaTome | PermaTome | Knowledge | Cloud |
-| :---: | :---: | :---: | :---: |
-| A | B | C | Z |
+| PortaTome | PermaTome | Knowledge | Transient | Cloud |
+| :---: | :---: | :---: | :---: | :---: |
+| A | B | C | T |  Z |
 
 
 ### Footage Structure
